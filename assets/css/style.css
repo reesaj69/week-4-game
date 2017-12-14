@@ -1,0 +1,42 @@
+*{
+	box-sizing; border-box;
+}
+
+#first {
+	text-align: center;
+	color: green;
+	border: solid;
+	border-color: beige;
+	background-color: beige;
+	font-size: 16px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+h1 {
+	text-align: center;
+	border: solid;
+	border-color: orange;
+	color:white;
+	background-color: orange;
+	font-family: "Times New Roman", Times, serif;
+
+
+}
+
+#numberGenerated {
+	border: none;	
+	text-align: left;
+	border-color: green;
+	text-align: center;
+	
+}
+
+img{
+	width: 50%;
+	height: auto;
+}
+
+h3 {
+	font-size: 20px;
+}
